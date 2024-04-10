@@ -1,2 +1,1 @@
 kitty --start-as fullscreen
-tmux attach-session -t
